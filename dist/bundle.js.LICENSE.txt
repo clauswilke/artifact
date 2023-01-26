@@ -1,0 +1,9 @@
+/**
+ * The Artifact - t-SNE based JavaScript generative art
+ * 
+ * Copyright (c) 2023, Claus O. Wilke
+ * 
+ * This code and its outputs are released under CC0:
+ * https://creativecommons.org/share-your-work/public-domain/cc0/
+ * @preserve
+ **/

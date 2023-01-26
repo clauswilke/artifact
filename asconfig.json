@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "./src/assembly/tsne.ts"
+  ],
+  "options": {
+    "binaryFile": "./src/assembly/tsne.wasm",
+    "optimizeLevel": "3",
+    "converge": true,
+    "noAssert": true,
+    "runtime": "stub",
+    "_use": "Math=JSMath"
+  }
+}
