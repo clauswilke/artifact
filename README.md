@@ -3,6 +3,8 @@ The Artifact
 
 This repository contains the complete code for the generative art collection ["The Artifact"](https://www.fxhash.xyz/generative/24278) released on fx(hash) in January 2023. For explanations and insight into how this works and how it came to be, please read [this article.](https://www.fxhash.xyz/article/discovering-the-artifact)
 
+![](./output_array.jpg)
+
 ## Installation and usage
 
 The project is built on top of the [fx(hash) webpack boilerplate,](https://github.com/fxhash/fxhash-webpack-boilerplate) and installation and usage instructions are the same as described there. In brief, to run the project locally, you first need to have [nodejs](https://nodejs.org/) installed, and then you need to run the following command once in the root of the project folder to install dependencies:
