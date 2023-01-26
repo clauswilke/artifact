@@ -1,7 +1,7 @@
 The Artifact
 ================
 
-This repository contains the complete code for the generative art collection "The Artifact" released on fx(hash) in January 2023.
+This repository contains the complete code for the generative art collection ["The Artifact"](https://www.fxhash.xyz/generative/24278) released on fx(hash) in January 2023. For explanations and insight into how this works and how it came to be, please read [this article.](https://www.fxhash.xyz/article/discovering-the-artifact)
 
 ## Installation and usage
 
